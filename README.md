@@ -1,0 +1,1 @@
+O módulo de GIT do curso Hiring Coders pela Gama Academy está tirando todas as minhas dúvidas sobre o assunto, mostrando como funciona na prática e explicando sua importância em grandes projetos. Estou adorando!
